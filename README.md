@@ -1,10 +1,10 @@
-Examination-of-post-stamp-using-Fourier-transform.
+Examination of post stamp using Fourier transform.
 ==================================================
 
-Określenie przydatności znaczka pocztowego na podstawie transformaty Fouriera.
+Examination of post stamp edges using Fourier transform. Based on that results we can determin if edges of post stamp are cut.
 
-Praca została wykonana na projekt przejściowy na 6 semestrze studiów.
+Project was done after 3rd year of my studies (Robotics and Control Engineering).
 
-Autorzy: Aleksander Grzyb i Adam Szczombrowski
+Authors: Aleksander Grzyb i Adam Szczombrowski
 
-Prowadzący: dr inż. Andrzej Florek
+Teacher: dr inż. Andrzej Florek
